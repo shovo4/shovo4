@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shovo4&label=Profile%20views&color=0e75b6&style=flat" alt="shovo4" /> </p>
 <h1 align="center">Hi, I'm </h1>
-<p align="center"> <a href="https://shovo4.github.io/cv/"> <img src="shovo.gif" alt="shovo4"  width="500" height="300" /> </a> </p>
+<p align="center"> <a href="https://shovo4.github.io/cv/"> <img src="shovo2.gif" alt="shovo4"  width="500" height="350" /> </a> </p>
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/saiful-islam-shovo-6a4a2a184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiful islam shovo" height="30" width="40" /></a>
