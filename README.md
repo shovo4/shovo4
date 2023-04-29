@@ -42,7 +42,9 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shovo4&amp;background=grey" alt="shovo4" width="800" height="200"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovo4&theme=dark&hide_border=true&background=transparent" alt="shovo4" />
+</p>
 
 
 <br>
