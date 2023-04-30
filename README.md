@@ -24,7 +24,7 @@
 
 - 🕺 Fun fact **Love watching movies and traveling**
 
-- 👉 go to my website for more info [https://shovo4.github.io/cv/](https://shovo4.github.io/cv/)
+- 👉 go to my website for more info [https://shovo.ca](https://shovo.ca)
 
 <br>
 <a title="Github Stats">
