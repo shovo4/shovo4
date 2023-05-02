@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shovo@ualberta.ca**
 
-- 📄 Know about my experiences: resume --> [resume](https://shovo.ca/assets/files/resume.pdf)
+- 📄 Know about my experiences: [resume](https://shovo.ca/assets/files/resume.pdf)
 
 - 🕺 Fun fact **Love watching movies and traveling**
 
