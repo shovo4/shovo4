@@ -20,11 +20,11 @@
 
 - 📫 How to reach me **shovo@ualberta.ca**
 
-- 📄 Know about my experiences: resume --> [https://shovo4.github.io/cv/resume.pdf](https://shovo4.github.io/cv/resume.pdf)
+- 📄 Know about my experiences: resume --> [resume](https://shovo.ca/assets/files/resume.pdf)
 
 - 🕺 Fun fact **Love watching movies and traveling**
 
-- 👉 go to my website for more info [https://shovo.ca](https://shovo.ca)
+- 👉 go to my website for more info [website](https://shovo.ca)
 
 <br>
 <a title="Github Stats">
